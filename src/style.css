@@ -1,0 +1,23 @@
+
+:root {
+  font-family: Arial, sans-serif;
+  color: #222;
+  background: #f5f7fa;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+}
+
+#app {
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
